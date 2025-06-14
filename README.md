@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dev-∆x</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-deltax" alt="dev-deltax" /></a> </p>
 
 - 🔭 I’m currently working on [SSIP Hackthon](https://www.ssipgujarat.in/)
